@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group>
+        <item android:title="Home">
+            <menu>
+                <item
+                    android:id="@+id/mPerfil"
+                    android:checked="true"
+                    android:icon="@drawable/ic_baseline_person"
+                    android:title="Perfil" />
+                <item
+                    android:id="@+id/mFace"
+                    android:icon="@drawable/ic_baseline_face"
+                    android:title="Reconehcimento facial"/>
+                <item
+                    android:id="@+id/mlocalizacao"
+                    android:icon="@drawable/ic_baseline_location_on"
+                    android:title="Localizacão" />
+                <item
+                    android:id="@+id/mSettings"
+                    android:icon="@drawable/ic_baseline_settings"
+                    android:title="Settings" />
+
+            </menu>
+        </item>
+    </group>
+    <group>
+        <item android:title="Communicate">
+            <menu>
+                <item
+                    android:id="@+id/mShare"
+                    android:icon="@drawable/ic_baseline_share"
+                    android:title="Share"
+                    />
+                <item
+                    android:id="@+id/mSend"
+                    android:icon="@drawable/ic_baseline_send"
+                    android:title="Send" />
+            </menu>
+        </item>
+    </group>
+</menu>
