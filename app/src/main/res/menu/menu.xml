@@ -29,12 +29,12 @@
         <item android:title="Communicate">
             <menu>
                 <item
-                    android:id="@+id/mShare"
+                    android:id="@+id/mCompatilhar"
                     android:icon="@drawable/ic_baseline_share"
                     android:title="Compartilhar"
                     />
                 <item
-                    android:id="@+id/mSettings"
+                    android:id="@+id/mComfiguracoes"
                     android:icon="@drawable/ic_baseline_settings"
                     android:title="Configurações" />
             </menu>
