@@ -10,11 +10,13 @@
 
         <com.google.android.material.appbar.MaterialToolbar
             android:id="@+id/idToolBar"
+            android:background="#000"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             app:navigationIcon="@drawable/ic_baseline_menu"
             app:navigationIconTint="#fff"
             style="@style/Widget.MaterialComponents.Toolbar.Primary"
+            app:titleTextColor="#fff"
             app:title="Etec Face ID"/>
 
     </com.google.android.material.appbar.AppBarLayout>

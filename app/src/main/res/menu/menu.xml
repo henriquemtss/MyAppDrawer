@@ -18,9 +18,9 @@
                     android:icon="@drawable/ic_baseline_location_on"
                     android:title="Localizacão" />
                 <item
-                    android:id="@+id/mSettings"
-                    android:icon="@drawable/ic_baseline_settings"
-                    android:title="Settings" />
+                    android:id="@+id/mHistotico"
+                    android:icon="@drawable/ic_baseline_history"
+                    android:title="Histórico" />
 
             </menu>
         </item>
@@ -31,12 +31,12 @@
                 <item
                     android:id="@+id/mShare"
                     android:icon="@drawable/ic_baseline_share"
-                    android:title="Share"
+                    android:title="Compartilhar"
                     />
                 <item
-                    android:id="@+id/mSend"
-                    android:icon="@drawable/ic_baseline_send"
-                    android:title="Send" />
+                    android:id="@+id/mSettings"
+                    android:icon="@drawable/ic_baseline_settings"
+                    android:title="Configurações" />
             </menu>
         </item>
     </group>
