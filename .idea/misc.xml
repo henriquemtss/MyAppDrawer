@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/drawable/gradiente.xml" value="0.1455" />
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/drawable/linha.xml" value="0.1455" />
         <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/app_bar_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/fragment_compartilhar.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/fragment_configuracoes.xml" value="0.25" />
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/fragment_historico.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/fragment_localizacao.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/fragment_perfil.xml" value="0.25" />
+        <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/fragment_reconhecimento.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/head_nav_view.xml" value="0.22" />
         <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/layout/modelo_gallery.xml" value="0.25" />
         <entry key="..\:/Users/HENRIQUE/StudioProjects/MyAppDrawer/app/src/main/res/menu/menu.xml" value="0.25" />
