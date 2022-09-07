@@ -58,7 +58,6 @@ public class MainActivity<onNavigationItemSelected> extends AppCompatActivity  i
                 getSupportFragmentManager()
                         .beginTransaction()
                         .replace(R.id.idContainerNav, new FragmentPerfil()).commit();
-
                 break;
             case R.id.mFace:
                 getSupportFragmentManager()
@@ -74,6 +73,7 @@ public class MainActivity<onNavigationItemSelected> extends AppCompatActivity  i
                 getSupportFragmentManager()
                         .beginTransaction()
                         .replace(R.id.idContainerNav, new FragmentHistorico()).commit();
+                break;
             case R.id.mCompatilhar:
                 getSupportFragmentManager()
                         .beginTransaction()

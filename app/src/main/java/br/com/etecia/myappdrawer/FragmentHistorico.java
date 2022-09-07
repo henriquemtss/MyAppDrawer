@@ -63,7 +63,12 @@ public class FragmentHistorico extends Fragment {
 
             imgHistorico = v.findViewById(R.id.modeloImagemHistorico);
             txtHistorico = v.findViewById(R.id.modeloTxtNome);
-            return null;
+
+            imgHistorico.setImageResource(imagemHistorico[i]);
+            txtHistorico.setText(NomeHistorico[i]);
+
+
+            return v;
         }
     }
 }
